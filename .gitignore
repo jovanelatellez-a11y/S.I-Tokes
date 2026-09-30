@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET
+**/bin/
+**/obj/
+
+# Node / Vue
+**/node_modules/
+**/dist/
+
+# Logs
+*.log
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Archivos locales
+.env
+.env.local
+
+# Copias de bases de datos
+*.bak

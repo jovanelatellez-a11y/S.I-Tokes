@@ -1,0 +1,22 @@
+{
+    "idCxc": "",
+    "noCxc": "",
+    "idCliente": "",
+    "observaciones": "",
+    "fechaRegistro": "",
+    "usuarioRegistro": "",
+    "estado": "",
+    "detalleCxc": [ {
+        "idDetalleCxc": "",
+        "idCxc": "",
+        "idVenta": "",
+        "monto": "",
+        "nCuotas": "",
+        "diasCredito": "",
+        "saldo": "",
+        "cancelado": "", 
+        "fechaRegistro": "",
+        "usuarioRegistro": "",
+        "estado": ""
+    } ]
+}
